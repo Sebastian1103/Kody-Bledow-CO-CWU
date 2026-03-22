@@ -1,0 +1,8 @@
+{
+  "name": "Serwis CO/CWU",
+  "short_name": "Serwis CO",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212"
+}
